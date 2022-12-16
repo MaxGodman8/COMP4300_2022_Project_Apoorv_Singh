@@ -7,10 +7,11 @@ Project Group Members:
 Project Videos:
 
 * Project Demo: YouTube URL
-* Project Trailer: YouTube URL
-* Project Presentation: YouTube URL
+* Project Trailer:
+* Project Presentation: https://youtu.be/-bwzMTG3bjs
 
 Project Setup / Installation:
 
-* Your project setup and installation instructions go here
-* Feel free to include screenshots if you want
+SFML Version 2.5.1 (32 Bit) 
+Visual Studio Version - 2017 Community 32 Bit
+
